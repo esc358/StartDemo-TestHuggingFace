@@ -29,3 +29,6 @@ module.exports = accessToken;
 ## What we are going to work on
 
 1. Install `npm install @huggingface/inference`
+2. Create an API Key with [HuggingFace](https://huggingface.co)
+3. Work on script.js and index.js.
+4. Run application.
